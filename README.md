@@ -1,8 +1,6 @@
 # CAA 20002 Fix
 > This is a powershell script made to fix a Microsoft Teams error that occasionally occurs. Error code: CAA20002
 
-[![Downloads Stats][npm-downloads]][npm-url]
-
 This folder contains a Powershell script and settings.json file needed to fix the uncommon Microsoft Teams error CAA20002. 
 
 ![]([header.png](https://www.technewstoday.com/wp-content/uploads/2022/08/Teams-Error-Code-CAA20002.webp))
@@ -10,8 +8,6 @@ This folder contains a Powershell script and settings.json file needed to fix th
 ## Installation
 
 Windows 10/11 :
-
-Windows:
 
 ```sh
 Download zip.
